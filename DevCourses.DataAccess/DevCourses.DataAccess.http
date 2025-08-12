@@ -1,0 +1,6 @@
+@DevCourses.DataAccess_HostAddress = http://localhost:5119
+
+GET {{DevCourses.DataAccess_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
